@@ -1,2 +1,2 @@
-# Java-iic-Workshop
- 
+# Java-IIC-Workshop
+# 2019-2020
